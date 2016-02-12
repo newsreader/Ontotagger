@@ -7,3 +7,8 @@ Inserts semantic tags into the term layer of NAF/KAF as external references. Tag
 git@github.com:cltl/OntoTagger.git
 
 This module was developed at VU University Amsterdam.
+
+Requirements:
+This module uses the KafSaxParser which needs to be installed first:
+
+git@github.com:cltl/KafSaxParser.git
